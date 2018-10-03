@@ -1,0 +1,12 @@
+.container {
+margin: 0px auto;
+width: 100px;
+}
+
+#txt {
+  font-family: Helvetica, Arial, sans-serif;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 64px;
+}
